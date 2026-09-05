@@ -2,6 +2,6 @@
 name = "Pastel Pink Flower Theme"
 version = "0.1.0"
 schema_version = 1
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Bavuett"]
 description = "A beautiful, luminous pastel pink dark theme."
-repository = "https://github.com/YOUR-GITHUB-USERNAME/zed-pastel-pink-theme"
+repository = "https://github.com/Bavuett/zed-pastel-pink-theme"
