@@ -1,14 +1,35 @@
-﻿# Pastel Pink Flower Theme for Zed
+﻿# 🌸 Pastel Pink Flower Theme for Zed
 
-A beautiful, luminous pastel pink dark theme designed for the Zed editor. 
+A beautiful, luminous, and elegant dark theme for the [Zed](https://zed.dev) editor. 
 
-## Installation
+Inspired by the soft, warm tones of pastel pink flowers, this theme is carefully crafted to be easy on the eyes while providing a vibrant, luminous glow. It replaces harsh dark grays with a comforting "dusty rose" background, paired with pastel syntax highlighting (peach, mint, soft lavender, and mauve) for a delightful coding experience.
 
-1. Open Zed.
-2. Go to the Extensions panel.
-3. Search for "Pastel Pink Flower Theme".
-4. Click Install.
+## ✨ Features
+- **Luminous Dark Mode:** A perfectly balanced dark theme that avoids dull greys in favor of a warm, radiant dark pink backdrop.
+- **Pastel Syntax Highlighting:** Carefully tuned pastel colors that maintain high contrast and readability.
+- **Distinct UI Panels:** Beautifully separated editor, terminal, and project panels with subtle, elegant borders.
+- **Eye-Friendly:** Soft tones that reduce eye strain during long coding sessions.
 
-## Screenshots
+## 📸 Screenshots
 
-*(Add screenshots here before publishing!)*
+*(Replace these placeholders with actual screenshots of your editor!)*
+
+![Editor Preview](https://via.placeholder.com/800x500.png?text=Editor+Preview)
+![Terminal Preview](https://via.placeholder.com/800x300.png?text=Terminal+Preview)
+
+## 📦 Installation
+
+This theme is available directly through Zed's built-in extension manager!
+
+1. Open **Zed**.
+2. Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P).
+3. Type zed: extensions and hit Enter.
+4. Search for **Pastel Pink Flower Theme**.
+5. Click **Install**.
+6. Switch to the theme via the Theme Selector (Ctrl+K Ctrl+T or Cmd+K Cmd+T).
+
+## 🛠️ Contributing
+If you'd like to suggest improvements or tweak some colors, feel free to open an issue or a pull request!
+
+## 📜 License
+MIT License. See the [LICENSE](LICENSE) file for more details.
