@@ -28,8 +28,18 @@ This theme is available directly through Zed's built-in extension manager!
 5. Click **Install**.
 6. Switch to the theme via the Theme Selector (Ctrl+K Ctrl+T or Cmd+K Cmd+T).
 
+
+## 🌸 Inspiration
+
+The color palette for this theme was deeply inspired by the beautiful soft, luminous tones of this floral photograph:
+
+<img src="./assets/inspiration.jpg" alt="Pastel Pink Flowers" width="600">
+
+*Photo by [Sujeong Jin](https://unsplash.com/@sujeongjin) on [Unsplash](https://unsplash.com/)*
+
 ## 🛠️ Contributing
 If you'd like to suggest improvements or tweak some colors, feel free to open an issue or a pull request!
 
 ## 📜 License
 MIT License. See the [LICENSE](LICENSE) file for more details.
+
