@@ -12,10 +12,7 @@ Inspired by the soft, warm tones of pastel pink flowers, this theme is carefully
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your editor!)*
-
-![Editor Preview](https://via.placeholder.com/800x500.png?text=Editor+Preview)
-![Terminal Preview](https://via.placeholder.com/800x300.png?text=Terminal+Preview)
+![Editor Preview](./assets/screenshot.png)
 
 ## 📦 Installation
 
@@ -42,4 +39,5 @@ If you'd like to suggest improvements or tweak some colors, feel free to open an
 
 ## 📜 License
 MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
